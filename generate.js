@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // Code from https://hackernoon.com/how-to-implement-google-authenticator-two-factor-auth-in-javascript-091wy3vh3
 
 const crypto = require('crypto')
